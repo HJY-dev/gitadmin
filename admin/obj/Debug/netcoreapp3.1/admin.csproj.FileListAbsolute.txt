@@ -67,3 +67,4 @@ E:\项目\gitclone\gitadmin\admin\obj\Debug\netcoreapp3.1\admin.Views.pdb
 E:\项目\gitclone\gitadmin\admin\obj\Debug\netcoreapp3.1\admin.dll
 E:\项目\gitclone\gitadmin\admin\obj\Debug\netcoreapp3.1\admin.pdb
 E:\项目\gitclone\gitadmin\admin\obj\Debug\netcoreapp3.1\admin.csproj.CopyComplete
+E:\项目\gitclone\gitadmin\admin\obj\Debug\netcoreapp3.1\admin.MvcApplicationPartsAssemblyInfo.cache
